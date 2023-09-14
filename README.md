@@ -10,3 +10,6 @@
   - ```git add .````
 - connect remote repository
   - `git remote add origin https://github.com/SelinYan/GH_testing.git `
+- make changes
+- commit changes
+- push
